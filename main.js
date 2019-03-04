@@ -55,9 +55,9 @@ class Circle {
   }
 
   move(){
-    average=random(30);
-    if (average<20){
-      average=20;
+    average=random(25);
+    if (average<21){
+      average=21;
     }
     if (mouseIsPressed){
       this.x=(this.x*20+mouseX)/average;
