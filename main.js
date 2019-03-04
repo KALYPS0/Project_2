@@ -36,8 +36,8 @@ class Circle {
     this.x=width/2;
     this.y=height/2;
     this.smallness=random(50);
-    this.xSpeed=random(-2.5,3);
-    this.ySpeed=random(-2.5,3);
+    this.xSpeed=random(-2,3);
+    this.ySpeed=random(-2,3);
     this.visible=false;
   }
 
