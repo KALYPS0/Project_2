@@ -1,5 +1,5 @@
 let circles = [];
-let numberOfCircles = 5000;
+let numberOfCircles = 3000;
 let whichStartingCircle = 0;
 let clicked = false;
 let average;
